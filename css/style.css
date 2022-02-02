@@ -10,4 +10,31 @@ html {
 body {
   max-width: 320px;
   margin: auto;
+  background-color: #000;
+  margin: 40px;
+  font-family:  sans-serif;
+}
+
+.site-header {
+  background-image: url(../img/code_920px.png);
+  color: #fff;
+  padding: 55px 80px 50px 30px;
+  border: solid 2px white;
+  margin-bottom: 20px;
+}
+
+div {
+  background-color: #2afca6;
+  margin-bottom: 20px;
+  padding: 40px 60px;
+}
+
+article {
+  background-color: #fff;
+  padding: 40px 60px;
+}
+
+img {
+  width: 440px;
+
 }
