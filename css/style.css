@@ -18,7 +18,7 @@ body {
 .site-header {
   background-image: url(../img/code_920px.png);
   color: #fff;
-  padding: 55px 80px 50px 30px;
+  padding: 33px 80px 46px 30px;
   border: solid 2px white;
   margin-bottom: 20px;
 }
@@ -40,12 +40,13 @@ span {
 div {
   background-color: #2afca6;
   margin-bottom: 20px;
-  padding: 40px 30px;
+  padding: 16px 30px 32px 30px;
 }
 
 div h2 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: bold;
+  margin-bottom: 25px;
 }
 
 article {
@@ -57,6 +58,7 @@ article {
 figure {
   margin: 0;
   padding: 0;
+  box-shadow: 50px;
 }
 
 article img {
