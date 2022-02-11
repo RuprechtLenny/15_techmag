@@ -91,3 +91,19 @@ footer {
   color: #fff;
   margin-bottom: 20px;
 }
+
+.legende {
+  color: grey;
+  font-size: 12px;
+}
+
+.date {
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+} 
+
+.auteur {
+  font-size: 12px;
+}
